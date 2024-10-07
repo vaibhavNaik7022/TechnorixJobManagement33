@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Technorix.JobManagement_3.props" />
+</Project>
